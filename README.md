@@ -8,6 +8,11 @@ This project is built using Java 21 and Maven.
 - Maven 3.9+ installed
 - employee.csv placed in the project root (same folder as pom.xml)
 
+2. After cloning the project, go to Terminal and do:
+```bash
+cd org-analyzers
+```
+
 2. Build the project
 ```bash
 mvn clean package
